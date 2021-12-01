@@ -1,37 +1,212 @@
-## Welcome to GitHub Pages
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-You can use the [editor on GitHub](https://github.com/chamette/nitrohaxx-boot2-usb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <meta property="og:image" content="https://cdn-cf.gamivo.com/image_cover.jpg?f=323391&n=5771708838827729.jpg&h=e2c4d2a1804d180d2b73a82ceaea20ed"/>
+	<meta property="og:title" content="Nitrohaxx"/>
+	<meta name="title" content="Nitrohaxx"/>
+	<meta property="og:description" content="Nitro working codes generator (in 10 minutes) online developed by Chachavilisé#4357"/>
+	<meta name="description" content="Nitro working codes generator (in 10 minutes) online developed by Chachavilisé#4357"/>
+	
+    <title>Nitrohaxx</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/pure-min.css" integrity="sha384-" crossorigin="anonymous">
+    
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/grids-responsive-old-ie-min.css">
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="https://unpkg.com/purecss@0.6.2/build/grids-responsive-min.css">
+    <!--<![endif]-->
+    
+    
+        <!--[if lte IE 8]>
+            <link rel="stylesheet" href="css/layouts/blog-old-ie.css">
+        <![endif]-->
+        <!--[if gt IE 8]><!-->
+            <link rel="stylesheet" href="css/layouts/blog.css">
+        <!--<![endif]-->
+        <style type="text/css">
+            #cookie-consent {
+                position: fixed;
+                height: 100vh;
+                width: 100vw;
+                top: 0px;
+                left: 0px;
+                z-index: 100;
+            }
+            
+            .cookie-consent-background {
+                position: absolute;
+                height: 100vh;
+                width: 100vw;
+                top: 0px;
+                left: 0px;
+                z-index: 101;
+                background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/desktopbg.png');
+                background-size: cover;
+            }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            @media only screen and (max-width: 1050px) {
+                .cookie-consent-background {
+                    background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/tabletbg.png');
+                }
+            }
 
-### Markdown
+            @media only screen and (max-width: 550px) {
+                .cookie-consent-background {
+                    background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/mobilebg.png');
+                }
+            }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            .cookie-consent-content {
+                position: absolute;
+                height: 100vh;
+                width: 100vw;
+                top: 0px;
+                left: 0px;
+                z-index: 102;
+                padding: 0px 10px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+                backdrop-filter: blur(10px);
+                background-color: rgba(0, 0, 0, .4);
+            }
 
-```markdown
-Syntax highlighted code block
+            .text-white {
+                color: white;
+            }
 
-# Header 1
-## Header 2
-### Header 3
+            .hidden {
+                display: none;
+            }
 
-- Bulleted
-- List
+            .vid-div {
+                margin:20px 0px;
+                position: relative;
+            }
 
-1. Numbered
-2. List
+            #vid-blocker {
+                position:absolute;
+                top: 0px;
+                left: 0px;
+                height: 100%;
+                width: 100%;
+                z-index: 5;
+            }
 
-**Bold** and _Italic_ and `Code` text
+            #video-frame {
+                width:100%;
+            }
 
-[Link](url) and ![Image](src)
-```
+            @media only screen and (min-width: 1400px) {
+                #video-frame {
+                    width: 80%;
+                }
+            }
+        </style>
+</head>
+<body>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<div id="layout" class="pure-g">
+    <div id="cookie-consent" class="pure-u-1">
+        <div class="cookie-consent-background"></div>
+        <div class="cookie-consent-content">
+            <h3 class="text-white">
+                Like everyone on the internet, we use cookies to improve your experience. If you're ok with that please click accept.
+            </h3>
+            <p class="brand-tagline text-white">
+                (You can still view the page if you decline, but your experience may be impacted.)
+            </p>
+            <p>
+                <button class="pure-button button-large">Accept</button>    
+                <button class="pure-button button-large decline-button">Decline</button>    
+            </p>
+        </div>
+    </div>
 
-### Jekyll Themes
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+            <h1 class="brand-title">NEVER GONNA</h1>
+            <h2 class="brand-tagline">Give you up.<br/>Let you down.<br/>Run around.</br>Desert you.<br/></h2>
+            <h3>You've been rolled.</h3>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chamette/nitrohaxx-boot2-usb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a class="pure-button" href="https://www.secretrickroll.com">Make your own!</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="http://github.com/sorenrehkopf/custom-rick-roll">About this</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
 
-### Support or Contact
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            <!-- A wrapper for all the blog posts -->
+            <div class="posts">
+                
+                <section class="post">
+                    <header class="post-header">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                        <h2 class="post-title">Nitrohaxx</h2>
+
+                        <p class="post-description">2021/11/06</p>
+                    </header>
+
+                    <div class="post-description">
+                        <div class="vid-div">
+                            <div id="vid-blocker"></div>
+                            <iframe id="video-frame" src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?&enablejsapi=1&autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <p class="post-description">No controls on this video. You have no control over this situation.<br/><br/><br/><br/>...unless you exit the page.</p>
+                    </div>
+                </section>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var player;
+    var frame = document.querySelector('#video-frame');
+    var cookieConsent = document.querySelector('#cookie-consent');
+    var firstScriptTag = document.querySelector('script');
+    var tag = document.createElement('script');
+    tag.id = 'iframe-demo';
+    tag.src = 'https://www.youtube.com/iframe_api';
+    frame.setAttribute('height', Math.floor(frame.clientWidth * .6));
+
+    cookieConsent.addEventListener('click', () => {
+        player.seekTo(0);
+        player.unMute();
+        cookieConsent.classList.add('hidden');
+    });
+
+    function onYouTubeIframeAPIReady() {
+        player = new YT.Player('video-frame');
+    }
+
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-94067710-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-94067710-2', { 'anonymize_ip': true });
+</script>
+</body>
+</html>
