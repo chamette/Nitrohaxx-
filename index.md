@@ -139,7 +139,7 @@
 
                         <h2 class="post-title">Nitrohaxx</h2>
 
-                        <p class="post-description">2021/11/06</p>
+                   
                     </header>
 
                     <div class="post-description">
