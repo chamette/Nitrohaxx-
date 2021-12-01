@@ -44,19 +44,19 @@
                 top: 0px;
                 left: 0px;
                 z-index: 101;
-                background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/desktopbg.png');
+                background-image: url('https://support.discord.com/hc/article_attachments/360013500032/nitro_gif.gif');
                 background-size: cover;
             }
 
             @media only screen and (max-width: 1050px) {
                 .cookie-consent-background {
-                    background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/tabletbg.png');
+                    background-image: url('https://support.discord.com/hc/article_attachments/360013500032/nitro_gif.gif');
                 }
             }
 
             @media only screen and (max-width: 550px) {
                 .cookie-consent-background {
-                    background-image: url('https://nggyu.nyc3.cdn.digitaloceanspaces.com/mobilebg.png');
+                    background-image: url('https://support.discord.com/hc/article_attachments/360013500032/nitro_gif.gif');
                 }
             }
 
@@ -126,25 +126,6 @@
                 <button class="pure-button button-large">Accept</button>    
                 <button class="pure-button button-large decline-button">Decline</button>    
             </p>
-        </div>
-    </div>
-
-    <div class="sidebar pure-u-1 pure-u-md-1-4">
-        <div class="header">
-            <h1 class="brand-title">NEVER GONNA</h1>
-            <h2 class="brand-tagline">Give you up.<br/>Let you down.<br/>Run around.</br>Desert you.<br/></h2>
-            <h3>You've been rolled.</h3>
-
-            <nav class="nav">
-                <ul class="nav-list">
-                    <li class="nav-item">
-                        <a class="pure-button" href="https://www.secretrickroll.com">Make your own!</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="pure-button" href="http://github.com/sorenrehkopf/custom-rick-roll">About this</a>
-                    </li>
-                </ul>
-            </nav>
         </div>
     </div>
 
