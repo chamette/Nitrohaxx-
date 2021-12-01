@@ -137,7 +137,7 @@
                 <section class="post">
                     <header class="post-header">
 
-                        <h2 class="post-title">Nitrohaxx</h2>
+                        <h2 class="post-title">Get rickrolled by Nitrohaxx — Chachavilisé#4357</h2>
 
                    
                     </header>
@@ -147,7 +147,7 @@
                             <div id="vid-blocker"></div>
                             <iframe id="video-frame" src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?&enablejsapi=1&autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
-                        <p class="post-description">No controls on this video. You have no control over this situation.<br/><br/><br/><br/>...unless you exit the page.</p>
+                        <p class="post-description">No controls on this video. You have no control over this situation.<br/>...unless you exit the page.</p>
                     </div>
                 </section>
 
